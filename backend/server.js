@@ -16,7 +16,10 @@ connectDB();
 app.use(express.json());
 app.use(
   cors({
-    origin: process.env.CLIENT_URL || true,
+    origin: [
+      "https://task-management-board-jypy.onrender.com/",
+      "https://task-management-board-pi.vercel.app/",
+    ],
     credentials: true,
   })
 );
