@@ -4,8 +4,8 @@ A MERN task board for role-based collaboration between admin and regular users. 
 
 ## Live URLs
 
-- Frontend: _replace with deployed URL_
-- Backend: _replace with deployed URL_
+- Frontend: https://task-management-board-pi.vercel.app/
+- Backend:  https://task-management-board-jypy.onrender.com/
 
 ## Local Setup
 
