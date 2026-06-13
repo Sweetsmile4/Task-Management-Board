@@ -42,4 +42,21 @@ A MERN task board for role-based collaboration between admin and regular users. 
 
 ## Screenshots
 
-Add at least two screenshots of the running app here before submission.
+![
+    Login
+](<Screenshot 2026-06-13 205120-1.png>)
+![
+    Register
+](<Screenshot 2026-06-13 205139-1.png>)
+![
+    Dashboard
+](<Screenshot 2026-06-13 205329.png>)
+![
+    All Users
+](<Screenshot 2026-06-13 205345.png>)
+![
+    All Boards
+](<Screenshot 2026-06-13 205358-1.png>)
+![
+    Boards and Task
+](<Screenshot 2026-06-13 205425-1.png>)
